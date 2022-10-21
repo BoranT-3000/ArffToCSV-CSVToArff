@@ -2,14 +2,14 @@
 # Project   : ARFF to CSV converter     #
 # Created   : 21/10/22                  #
 # Author    : Boran T.                  #
-# Reason    : Why Not  :)               #
+# Reason    : Why Not                   #
 #########################################
 
 # # # importing libraries
 import os
 import shutil
 import pandas as pd
-
+# https://github.com/haloboy777/arfftocsv
 
 
 file_name = str(input('please enter arff extension file name: '))
